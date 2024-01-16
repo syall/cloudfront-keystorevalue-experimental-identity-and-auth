@@ -1,0 +1,11 @@
+{
+  "name": "idauth",
+  "version": "1.0.0",
+  "main": "test.mjs",
+  "license": "MIT",
+  "private": true,
+  "module": "./test.mjs",
+  "dependencies": {
+    "@aws-sdk/client-cloudfront-keyvaluestore": "^3.490.0"
+  }
+}
